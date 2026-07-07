@@ -1,5 +1,5 @@
 ---
-title: Team 9450 FRC Programming
+title: Team 9450 Programming Training
 description: A Java programming curriculum for FRC.
 ---
 

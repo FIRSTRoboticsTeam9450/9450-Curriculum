@@ -6,7 +6,7 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
   integrations: [
     starlight({
-      title: 'Team 9450 FRC Programming',
+      title: '9450 Programming Curriculum',
       // Add your GitHub repo, social links, and sidebar here as you build out lessons.
       sidebar: [
         {
