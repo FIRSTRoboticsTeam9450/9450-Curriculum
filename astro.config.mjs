@@ -4,6 +4,9 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
+  // Deployed on GitHub Pages at https://ghoti-tpt.github.io/9450-Curriculum/
+  site: 'https://ghoti-tpt.github.io',
+  base: '/9450-Curriculum',
   integrations: [
     starlight({
       title: '9450 Programming Curriculum',
