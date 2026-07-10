@@ -51,3 +51,8 @@ Most collaboration problems come from people surprising each other. A few habits
 - Tell your teammates what you are working on so two people don't end up rewriting the same file.
 - Don't commit things that don't belong in the repo, like build output or editor settings files.
 
+## Naming
+
+Please don't name things stupidly, like commits called "Mongolian Throat Singing 2" or similar.
+Naming for anything, whether commits, variables, methods. or repositories, should be concise and
+to the point about what changes you are making or what that thing actually does.
