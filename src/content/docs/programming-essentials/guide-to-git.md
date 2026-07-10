@@ -51,6 +51,7 @@ available for using git more easily.
 Here are some good free git clients:
 - **[Fork](https://git-fork.com/)**: A more advanced git client, but with a full suite of functions. This is the one I use.
 - **[Github Desktop](https://desktop.github.com/download/)**: A more basic but easy to use git client. Comes integrated with github.
+- **[Git Reccomended Clients](https://git-scm.com/tools/guis)**: The git clients reccomended by Git. The page is rather old however so it is up to user discretion to find a usable one.
 
 ## Vocabulary
 
