@@ -72,3 +72,25 @@ the most common:
 - Checkout: Replaces the local version of your files with that of another branch.
 - Fork: Make a copy of a repository that tracks changes to the original. Useful when the original is being updated while you are making changes.
 - Init: Initialize a new repository. Choose a folder for the repository to be made from.
+
+## Pull Requests
+
+A Pull Request (PR) is how you ask for your branch to be merged into another branch, usually
+`main`. It also gives the team a chance to review your work first: teammates can read your
+changes, comment on specific lines, and ask for fixes before anything gets merged.
+
+On a team you usually should not commit straight to `main`. Instead you make a branch for your
+feature or fix, do your work there, and open a PR when it is ready. This keeps the main code
+stable and gives someone a chance to catch problems before they land.
+
+PRs are a feature of the site hosting your remote (like GitHub), not of Git itself. To make one:
+
+1. Create a branch and switch to it (`git checkout -b my-feature`), do your work, and commit.
+2. Push the branch with `git push` so it shows up on GitHub.
+3. On GitHub, open the **Pull requests** tab and click **New pull request** (or use the
+   "Compare & pull request" banner that appears after you push).
+4. Set the base branch to where your changes should go (e.g. `main`), write a title and short
+   description of what you changed, and create the PR.
+
+If reviewers ask for changes, just commit and push more to the same branch and the PR updates
+itself. Once it is approved, someone merges it, and you can delete the branch.

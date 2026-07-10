@@ -4,8 +4,8 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-  // Deployed on GitHub Pages at https://ghoti-tpt.github.io/9450-Curriculum/
-  site: 'https://ghoti-tpt.github.io',
+  // Deployed on GitHub Pages at https://firstroboticsteam9450.github.io/9450-Curriculum/
+  site: 'https://firstroboticsteam9450.github.io',
   base: '/9450-Curriculum',
   integrations: [
     starlight({
