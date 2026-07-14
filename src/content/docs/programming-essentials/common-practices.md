@@ -53,6 +53,6 @@ Most collaboration problems come from people surprising each other. A few habits
 
 ## Naming
 
-Please don't name things stupidly, like commits called "Mongolian Throat Singing 2" or similar. (looking at you, max)
+Please don't name things stupidly, like commits called "Mongolian Throat Singing 2" or similar. (looking at you, Max)
 Naming for anything, whether commits, variables, methods. or repositories, should be concise and
 to the point about what changes you are making or what that thing actually does.
