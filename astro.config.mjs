@@ -27,6 +27,12 @@ export default defineConfig({
             { autogenerate: { directory: 'programming-essentials' } },
           ],
         },
+        {
+          label: 'Java for FRC',
+          items: [
+            { autogenerate: { directory: 'java-for-frc' } },
+          ],
+        },
       ],
     }),
   ],
